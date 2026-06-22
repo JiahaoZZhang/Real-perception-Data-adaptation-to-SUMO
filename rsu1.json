@@ -1,0 +1,96 @@
+{
+  "id": 1,
+  "apiVersion": 0,
+  "name": "Madrillet",
+  "shortDescription": "Roundabout of Madrillet",
+  "geographicalPosition": {
+    "latitude": 49.38535,
+    "longitude": 1.071158,
+    "altitude": 40
+  },
+  "trueHeading": 106.48,
+  "mqttCommonTopics": "rsu-common-topics.json",
+  "mqttAdditionalTopics": [],
+  "trackingListConfig": {
+    "type": "quanergy",
+    "version": 1,
+    "format": "protobuf"
+  },
+  "sensorList": [
+    {
+      "id": 1,
+      "type": 16,
+      "name": "Axis 1",
+      "manufacturer": "Axis",
+      "streamingAddress": "",
+      "relativeFrame": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "yaw": 0,
+        "pitch": 0,
+        "roll": 0
+      }
+    },
+    {
+      "id": 2,
+      "type": 16,
+      "name": "Axis 2",
+      "manufacturer": "Axis",
+      "streamingAddress": "",
+      "relativeFrame": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "yaw": 0,
+        "pitch": 0,
+        "roll": 0
+      }
+    },
+    {
+      "id": 3,
+      "type": 16,
+      "name": "Axis 3",
+      "manufacturer": "Axis",
+      "streamingAddress": "",
+      "relativeFrame": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "yaw": 0,
+        "pitch": 0,
+        "roll": 0
+      }
+    },
+    {
+      "id": 4,
+      "type": 16,
+      "name": "Axis 4",
+      "manufacturer": "Axis",
+      "streamingAddress": "",
+      "relativeFrame": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "yaw": 0,
+        "pitch": 0,
+        "roll": 0
+      }
+    },
+    {
+      "id": 5,
+      "type": 16,
+      "name": "Axis Quad",
+      "manufacturer": "Axis",
+      "streamingAddress": "",
+      "relativeFrame": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "yaw": 0,
+        "pitch": 0,
+        "roll": 0
+      }
+    }
+  ]
+}

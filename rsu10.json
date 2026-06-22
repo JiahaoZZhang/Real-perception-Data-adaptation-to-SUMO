@@ -1,0 +1,97 @@
+{
+    "id": 10,
+    "apiVersion": 0,
+    "name": "Corbusier",
+    "shortDescription": "Roundabout of Corbusier",
+    "geographicalPosition": {
+      "latitude": 49.3879033,
+      "longitude": 1.0619128,
+      "altitude": 72
+    },
+    "trueHeading": -124,
+    "mqttCommonTopics": "rsu-common-topics.json",
+    "mqttAdditionalTopics": [],
+    "trackingListConfig": {
+      "type": "quanergy",
+      "version": 1,
+      "format": "protobuf"
+    },
+    "sensorList": [
+      {
+        "id": 1,
+        "type": 16,
+        "name": "Axis 1",
+        "manufacturer": "Axis",
+        "streamingAddress": "",
+        "relativeFrame": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "yaw": 0,
+          "pitch": 0,
+          "roll": 0
+        }
+      },
+      {
+        "id": 2,
+        "type": 16,
+        "name": "Axis 2",
+        "manufacturer": "Axis",
+        "streamingAddress": "",
+        "relativeFrame": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "yaw": 0,
+          "pitch": 0,
+          "roll": 0
+        }
+      },
+      {
+        "id": 3,
+        "type": 16,
+        "name": "Axis 3",
+        "manufacturer": "Axis",
+        "streamingAddress": "",
+        "relativeFrame": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "yaw": 0,
+          "pitch": 0,
+          "roll": 0
+        }
+      },
+      {
+        "id": 4,
+        "type": 16,
+        "name": "Axis 4",
+        "manufacturer": "Axis",
+        "streamingAddress": "",
+        "relativeFrame": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "yaw": 0,
+          "pitch": 0,
+          "roll": 0
+        }
+      },
+      {
+        "id": 5,
+        "type": 16,
+        "name": "Axis Quad",
+        "manufacturer": "Axis",
+        "streamingAddress": "",
+        "relativeFrame": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "yaw": 0,
+          "pitch": 0,
+          "roll": 0
+        }
+      }
+    ]
+  }
+  
